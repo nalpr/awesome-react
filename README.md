@@ -837,6 +837,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 * [Learn GraphQL](https://learngraphql.com/)
+* [How To Graphql](https://howtographql.com/)
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
 * [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
@@ -844,6 +845,7 @@ A collection of awesome things regarding React ecosystem.
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
+
 
 #### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
